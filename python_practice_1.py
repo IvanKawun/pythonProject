@@ -1,0 +1,1 @@
+print("Moshkovskyi Ivan, ninth groupD/")
